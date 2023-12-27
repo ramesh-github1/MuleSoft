@@ -1,0 +1,14 @@
+The aspects that diffrenciate waterfall and agile:
+1. Requirements- frequently changes
+2. Documentation - more in person communication rather than doc
+3. Deliverables - release deliverables in stages instead a grand event
+
+
+Agile Manifesto:
+1. Individuals and interaction over process and tools.
+2. Wotking software over comperhesive documentation.
+3. customer collobrations over contract negotations.
+4. responding to change over following a plan.
+
+
+

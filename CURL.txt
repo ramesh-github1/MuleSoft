@@ -1,0 +1,12 @@
+CURL
+
+syntax: curl [option] [URL]
+
+[option]:
+	-X "method":  to specify the http method.
+	-d "data": data to be sent (by default "application/x-www-form-URLencoded")
+			  eg: cURL -X POST -d "name=cURL&type=article" https://jsonplaceholder.typicode.com/posts
+			      cURL -X POST -d "{"name": "cURL", "type": "article"}" https://jsonplaceholder.typicode.com/posts
+	-H "content-type": format of the data that is been sent
+			  eg: curl -X POST -d "{"name": "cURL", "type": "article"}" -H "Content-Type:application" https://jsonplaceholder.typicode.com/posts
+ 

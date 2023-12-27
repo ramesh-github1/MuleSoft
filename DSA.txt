@@ -1,0 +1,18 @@
+Big-O: tells the efficiency of the code. Technically, it always tell the worst case.
+Time complexity: it is not the time it consider for the execution, rather it the number of operations.
+Space complexity
+
+
+O(1), O(logn), O(n), O(nlogn), O(n2), ....     
+
+
+Araay/Array List
+add and remove at end - O(1)
+add and remove at begning - O(n)
+add and remove at middle - O(n)
+
+
+ 
+
+Class: A class is a temple/blueprint that share a commom properties/methods from which a object can be created.
+
